@@ -1,4 +1,4 @@
-# Cats and Dogs Images Prediction
+# Cats and Dogs Images Classification
 
 ## Goal
 To predict the class of an image whether a cat or dog by building and training a convolution neural network.
